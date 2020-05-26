@@ -13,8 +13,8 @@
 
 **优惠云服务推荐**
 
-- [腾讯云：3年时长最低265元/年](https://cloud.tencent.com/redirect.php?redirect=1005&cps_key=f6a8af1297bfac40b9d10ffa1270029a)
-- [阿里云：ECS云服务器2折起](https://s.click.taobao.com/t?e=m%3D2%26s%3Dzj4kbQ5lKukcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAq9GNeKfy2AD4SaRmc4YmqYCxNLxWxqxDPY8Eqzf%2BUWbOTauL6DcROffvu81lbXO1DDVuRn8ddiDsEVVC24eqozO54LQ%2FVw1L9X5LHh3Z8M%2BWS6ALZVeqlk9XUfbPSJC%2F06deTzTIbffYpyF7ku%2BxKgGargQjSAC4C6cUF%2FXAmem)
+- [阿里云：ECS云服务器2折起](https://www.aliyun.com/sale-season/2020/procurement-new-members?userCode=wxfqkr0o)
+- [腾讯云：3年时长最低265元/年](https://url.cn/5iF8JP2)
 
 ## 教程列表
 
@@ -38,6 +38,7 @@
 - [消息驱动的微服务（入门）](http://blog.didispace.com/spring-cloud-starter-dalston-7-1/)
 - [消息驱动的微服务（核心概念）](http://blog.didispace.com/spring-cloud-starter-dalston-7-2/)
 - [消息驱动的微服务（消费组）](http://blog.didispace.com/spring-cloud-starter-dalston-7-3/)
+- [消息驱动的微服务（消费组案例：解决消息重复消费）](http://blog.didispace.com/spring-cloud-starter-dalston-7-5/)
 - [消息驱动的微服务（消息分区）](http://blog.didispace.com/spring-cloud-starter-dalston-7-4/)
 - [分布式服务跟踪（入门）](http://blog.didispace.com/spring-cloud-starter-dalston-8-1/)
 - [分布式服务跟踪（跟踪原理）](http://blog.didispace.com/spring-cloud-starter-dalston-8-2/)
@@ -45,7 +46,6 @@
 - [分布式服务跟踪（整合zipkin）](http://blog.didispace.com/spring-cloud-starter-dalston-8-4/)
 - [分布式服务跟踪（收集原理）](http://blog.didispace.com/spring-cloud-starter-dalston-8-5/)
 - [分布式服务跟踪（抽样收集）](http://blog.didispace.com/spring-cloud-starter-dalston-8-6/)
-- [Spring Cloud构建微服务架构：服务综合管理]
 
 ## 我的公众号
 
